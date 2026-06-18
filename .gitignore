@@ -1,0 +1,18 @@
+﻿# Build output
+bin/
+obj/
+*.user
+*.suo
+
+# NuGet
+packages/
+*.nupkg
+
+# Visual Studio
+.vs/
+*.vssscc
+*.vspscc
+
+# Windows
+Thumbs.db
+Desktop.ini
